@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(127, 197, 199);
+    text-align: center;
+  }
+  .Newlist{
+    color: rgb(30, 168, 214);
+  }
+
+ .Newtable td,th{
+    color: royalblue;
+    border: 1px solid black;
+}
+
+p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+button{
+    color: brown;
+}
